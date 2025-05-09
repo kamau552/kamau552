@@ -1,6 +1,6 @@
 # Hi there, I'm [Your Name]! 👋
 
-#🚀 Frontend Developer | ☁️ AWS cloud Practitioner 
+🚀 Frontend Developer | ☁️ AWS cloud Practitioner 
 
 ---
 
