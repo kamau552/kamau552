@@ -1,8 +1,6 @@
 # Hi there, I'm [Your Name]! 👋
 
-<p align="center">
-  🚀 Frontend Developer | ☁️ AWS cloud Practitioner 
-</p>
+#🚀 Frontend Developer | ☁️ AWS cloud Practitioner 
 
 ---
 
@@ -49,12 +47,5 @@ I'm currently sharpening my skills in **React.js**, **JavaScript**, **Bootstrap*
 - 🌍 [Portfolio Coming Soon]  
 - 📬 Reach me: faithkamau730@gmail.com
 
----
-
-## ✨ Motto
-
-> *“I believe I can do anything I set my mind to—tech is just the beginning.”*
-
----
 
 
