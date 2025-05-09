@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Faith Kamau! 👋
 
 🚀 Frontend Developer | ☁️ AWS cloud Practitioner 
 
